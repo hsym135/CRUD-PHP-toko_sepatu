@@ -1,0 +1,26 @@
+body{
+    background-image: url(../img/jp1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.judul{
+    margin-top: 250px;
+    background-color: rgba(128, 128, 128, 0.829);
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.container {
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.kotak {
+    width: 350px;
+    background: #FFFFFF;
+    margin: 120px auto;
+    box-shadow: 5px 5px 25px;
+    padding: 12px;
+    border-radius: 10px;
+}
